@@ -181,7 +181,7 @@ footer #fb, #twt, #ig{
 
     .home .text a{
         padding:10px 70px;
-        margin-left: 50px;
+        /* margin-left: 50px; */
         text-align: center;
         align-items: center;
     }
