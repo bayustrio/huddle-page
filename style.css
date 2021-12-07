@@ -153,6 +153,8 @@ footer #fb, #twt, #ig{
     }
 
     .home .image .text {
+        text-align: center;       
+        align-items: center;
         /* padding:20px; */
     padding-left: 0;
 
@@ -161,9 +163,10 @@ footer #fb, #twt, #ig{
     .home .text  {
         left:0;
         top:0;
+        text-align: center;       
         margin:0;
         /* right:0; */
-        padding:20px;
+        /* padding:20px; */
         /* align-items: center; */
         flex-direction: column;
     }
@@ -177,8 +180,8 @@ footer #fb, #twt, #ig{
     }
 
     .home .text  p{
-        width:300px;
-        text-align: left;
+    width:100%;
+        /* text-align: center; */
         /* align-items: center; */
         
     }
