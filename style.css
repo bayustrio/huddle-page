@@ -111,7 +111,8 @@ footer #fb, #twt, #ig{
     padding:10px;
     border: 1px solid #fff;
     border-radius: 50%; 
-    width:40px;
+    width:41px;
+    height:40px;
     color:#fff;
     
 }
@@ -167,8 +168,8 @@ footer #fb, #twt, #ig{
         text-align: center;
         flex-direction: column;
         /* align-items:flex-start; */
-        font-size:1.5rem;
-        line-height: 35px;
+        font-size:1.1rem;
+        /* line-height: 35px; */
     }
 
     .home .text  p{
